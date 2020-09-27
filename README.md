@@ -8,5 +8,3 @@ There's been a mix-up and this article is showing the wrong image! This seems to
 Uh-oh! That's a handsome, but clearly not a squirrel! 
 
 Enter `git bisect bad` to proceed. This will mark this commit as bad, and rollback to the commit halfway between here and the most recent good commit.
-
-As this is the offending commit where the wrong image is being first introduced, the git console should be estimating very few (maybe even 0) steps remaining, and should ultimately end up highlighting this commit.
