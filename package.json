@@ -1,0 +1,15 @@
+{
+  "name": "git-bisect-demo-2-automated-testing",
+  "version": "1.0.0",
+  "description": "Demonstration of speeding up git-bisect with automated testing. Part 2 in series of interactive tutorials about git bisect.",
+  "main": "src/numbers.js",
+  "repository": "https://github.com/ElGoorf/git-bisect-demo.git",
+  "author": "Hussein Duvigneau <hussein@notmybase.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
