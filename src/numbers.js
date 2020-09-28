@@ -1,5 +1,5 @@
 function twelve() {
-    return 2 + 4 + 6;
+    return 2 + 20 - 10;
 }
 
 module.exports = twelve;
