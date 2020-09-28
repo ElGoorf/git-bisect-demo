@@ -1,4 +1,4 @@
-# git-bisect-demo
+# `git bisect` Interactive Introduction Tutorial
 An intro to my favourite, but apparently not so well known, tool.
 
 First two tutorials are in beta, awaiting feedback from any volunteers :) Please feel free to clone locally and git a try:
